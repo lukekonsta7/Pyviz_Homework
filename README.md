@@ -12,3 +12,9 @@ You will get the:
 - Dwelling types per year
 - Most expensive neighbourhoods 
 - Etc. 
+
+
+### Something to note
+I changed the code on the dashboard notebook to make it look pleasant to read. I however did not change the rental analysis notebook, if you are wondering why the coding is different. 
+
+Thankyou for taking the time to look into my code and seeing how I can improve upon it.
